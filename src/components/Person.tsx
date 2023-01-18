@@ -25,7 +25,7 @@ export const Person = (props: Props) => {
         
         <h1> Friend List is :</h1>
         {props.friends.map((nam)=> {
-            return <h1>{nam}</h1>
+            return <h2>{nam}</h2>
         })}
         <h1>country : {props.country}</h1>
 

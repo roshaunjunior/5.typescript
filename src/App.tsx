@@ -10,7 +10,7 @@ function App() {
          age = {28}
          isMarried = {false} 
          friends={["ali" , "gujjar" , "roshan" ]}
-         country = {Country.India}
+         country = {Country.Pakistan}
       />
     </div>
   );
